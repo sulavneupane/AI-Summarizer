@@ -6,7 +6,7 @@ You can view the working project at: https://sulavaisummarizer.netlify.app/
 ## Tech Stack:
 1. VITE: https://vitejs.dev/
 2. React: https://react.dev/
-3. 4. TailwindCSS: https://tailwindcss.com/
+3. TailwindCSS: https://tailwindcss.com/
 5. Rapid API: https://rapidapi.com/
 6. Article Extractor and Summarizer: https://rapidapi.com/restyler/api/article-extractor-and-summarizer
 4. React-Redux: https://react-redux.js.org/
