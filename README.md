@@ -1,7 +1,7 @@
 # AI Summarizer
 This is a simple project that takes the URL of the article and generates a summary using Artificial Intelligence (AI). The summaries of articles are generated using Article Extractor and Summarizer library from RapidAPI.
 
-You can view the working project at: https://gregarious-bavarois-857157.netlify.app/
+You can view the working project at: https://sulavaisummarizer.netlify.app/
 
 ## Tech Stack:
 1. VITE: https://vitejs.dev/
